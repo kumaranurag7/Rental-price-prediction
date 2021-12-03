@@ -8,6 +8,6 @@ Train.csv - It is the training data containing the features, along with the pric
 For evaluation, a solution with low root-mean-squared error (RMSE) was desired.
 
 # All the steps implemented in this project
-Data Pre-processing,  Data Visualization,  Outlier Analysis,  Missing value Analysis,  Feature Selection,  Correlation analysis,  Multicollinearity Test,  Feature Scaling,  Splitting into Train and Test Dataset,  Hyperparameter Tuning.
+Data Pre-processing,  Data Visualization,  Outlier Analysis,  Missing value Analysis,  Feature Selection,  Correlation analysis,  Multicollinearity Test,  Feature Scaling,  Splitting into Train & Test Dataset,  Hyperparameter Tuning.
 # Models Tested
 I. Ridge Regression II. Random Forest III. XGBoost
